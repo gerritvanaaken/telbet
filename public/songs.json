@@ -48,7 +48,79 @@
 			"points": 0,
 			"title": "Soldi",
 			"artist": "Mahmood"
+		},
+		{
+			"country": "BLR",
+			"order": 7,
+			"points": 0,
+			"title": "Like It",
+			"artist": "ZENA"
+		},
+		{
+			"country": "GRE",
+			"order": 8,
+			"points": 0,
+			"title": "Better Love",
+			"artist": "Katerine Duska"
+		},
+		{
+			"country": "CYP",
+			"order": 9,
+			"points": 0,
+			"title": "Replay",
+			"artist": "Tamta"
+		},
+		{
+			"country": "EST",
+			"order": 10,
+			"points": 0,
+			"title": "Storm",
+			"artist": "Victor Crone"
+		},
+		{
+			"country": "SRB",
+			"order": 11,
+			"points": 0,
+			"title": "Kruna",
+			"artist": "Nevena Božović"
+		},
+		{
+			"country": "CZE",
+			"order": 12,
+			"points": 0,
+			"title": "Friend of a Friend",
+			"artist": "Lake Malawi"
+		},
+		{
+			"country": "AUS",
+			"order": 13,
+			"points": 0,
+			"title": "Zero Gravity",
+			"artist": "Kate Miller-Heidke"
+		},
+		{
+			"country": "ISL",
+			"order": 14,
+			"points": 0,
+			"title": "Hatrið mun sigra",
+			"artist": "Hatari"
+		},
+		{
+			"country": "SMR",
+			"order": 15,
+			"points": 0,
+			"title": "Say Na Na Na",
+			"artist": "Serhat"
+		},
+		{
+			"country": "SLO",
+			"order": 16,
+			"points": 0,
+			"title": "Sebi",
+			"artist": "Zala Kralj & Gašper Šantl"
 		}
+
+
 
 	]
 }
