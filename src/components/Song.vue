@@ -67,7 +67,7 @@ export default {
 				"LET": "Latvia",
 				"LTU": "Lithuania",
 				"LUX": "Luxembourg",
-				"MKD": "F.Y.R. Macedonia",
+				"MKD": "North Macedonia",
 				"MLT": "Malta",
 				"MNE": "Montenegro",
 				"MDA": "Moldova",
