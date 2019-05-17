@@ -8,119 +8,186 @@
 	},
 	"songs": [
 		{
-			"country": "ESP",
+			"country": "MLT",
 			"order": 1,
 			"points": 0,
-			"title": "La Venda",
-			"artist": "Miki"
+			"title": "Chameleon",
+			"artist": "Michela"
 		},
 		{
-			"country": "GBR",
+			"country": "ALB",
 			"order": 2,
 			"points": 0,
-			"title": "Bigger Than Us",
-			"artist": "Michael Rice"
-		},
-		{
-			"country": "GER",
-			"order": 3,
-			"points": 0,
-			"title": "Sister",
-			"artist": "S!sters"
-		},
-		{
-			"country": "FRA",
-			"order": 4,
-			"points": 0,
-			"title": "Roi",
-			"artist": "Bilal Hassani"
-		},
-		{
-			"country": "ISR",
-			"order": 5,
-			"points": 0,
-			"title": "Home",
-			"artist": "Kobi Marimi"
-		},
-		{
-			"country": "ITA",
-			"order": 6,
-			"points": 0,
-			"title": "Soldi",
-			"artist": "Mahmood"
-		},
-		{
-			"country": "BLR",
-			"order": 7,
-			"points": 0,
-			"title": "Like It",
-			"artist": "ZENA"
-		},
-		{
-			"country": "GRE",
-			"order": 8,
-			"points": 0,
-			"title": "Better Love",
-			"artist": "Katerine Duska"
-		},
-		{
-			"country": "CYP",
-			"order": 9,
-			"points": 0,
-			"title": "Replay",
-			"artist": "Tamta"
-		},
-		{
-			"country": "EST",
-			"order": 10,
-			"points": 0,
-			"title": "Storm",
-			"artist": "Victor Crone"
-		},
-		{
-			"country": "SRB",
-			"order": 11,
-			"points": 0,
-			"title": "Kruna",
-			"artist": "Nevena Božović"
+			"title": "Ktheju tokës",
+			"artist": "Ktheju tokës"
 		},
 		{
 			"country": "CZE",
-			"order": 12,
+			"order": 3,
 			"points": 0,
 			"title": "Friend of a Friend",
 			"artist": "Lake Malawi"
 		},
 		{
-			"country": "AUS",
-			"order": 13,
+			"country": "GER",
+			"order": 4,
 			"points": 0,
-			"title": "Zero Gravity",
-			"artist": "Kate Miller-Heidke"
+			"title": "Sister",
+			"artist": "S!sters"
 		},
 		{
-			"country": "ISL",
-			"order": 14,
+			"country": "RUS",
+			"order": 5,
 			"points": 0,
-			"title": "Hatrið mun sigra",
-			"artist": "Hatari"
+			"title": "Scream",
+			"artist": "Sergey Lazarev"
+		},
+		{
+			"country": "DEN",
+			"order": 6,
+			"points": 0,
+			"title": "Love Is Forever",
+			"artist": "Leonora"
 		},
 		{
 			"country": "SMR",
-			"order": 15,
+			"order": 7,
 			"points": 0,
 			"title": "Say Na Na Na",
 			"artist": "Serhat"
 		},
 		{
+			"country": "MKD",
+			"order": 8,
+			"points": 0,
+			"title": "Proud",
+			"artist": "Tamara Todevska"
+		},
+		{
+			"country": "SWE",
+			"order": 9,
+			"points": 0,
+			"title": "Too Late For Love",
+			"artist": "John Lundvik"
+		},
+		{
 			"country": "SLO",
-			"order": 16,
+			"order": 10,
 			"points": 0,
 			"title": "Sebi",
 			"artist": "Zala Kralj & Gašper Šantl"
+		},
+		{
+			"country": "CYP",
+			"order": 11,
+			"points": 0,
+			"title": "Replay",
+			"artist": "Tamta"
+		},
+		{
+			"country": "NED",
+			"order": 12,
+			"points": 0,
+			"title": "Arcade",
+			"artist": "Duncan Laurence"
+		},
+		{
+			"country": "GRE",
+			"order": 13,
+			"points": 0,
+			"title": "Better Love",
+			"artist": "Katerine Duska"
+		},
+		{
+			"country": "ISR",
+			"order": 14,
+			"points": 0,
+			"title": "Home",
+			"artist": "Kobi Marimi"
+		},
+		{
+			"country": "NOR",
+			"order": 15,
+			"points": 0,
+			"title": "Spirit in the Sky",
+			"artist": "KEiiNO"
+		},
+		{
+			"country": "GBR",
+			"order": 16,
+			"points": 0,
+			"title": "Bigger Than Us",
+			"artist": "Michael Rice"
+		},
+		{
+			"country": "ISL",
+			"order": 17,
+			"points": 0,
+			"title": "Hatrið mun sigra",
+			"artist": "Hatari"
+		},
+		{
+			"country": "EST",
+			"order": 18,
+			"points": 0,
+			"title": "Storm",
+			"artist": "Victor Crone"
+		},
+		{
+			"country": "BLR",
+			"order": 19,
+			"points": 0,
+			"title": "Like It",
+			"artist": "ZENA"
+		},
+		{
+			"country": "AZE",
+			"order": 20,
+			"points": 0,
+			"title": "Truth",
+			"artist": "Chingiz"
+		},
+		{
+			"country": "FRA",
+			"order": 21,
+			"points": 0,
+			"title": "Roi",
+			"artist": "Bilal Hassani"
+		},
+		{
+			"country": "ITA",
+			"order": 22,
+			"points": 0,
+			"title": "Soldi",
+			"artist": "Mahmood"
+		},
+		{
+			"country": "SRB",
+			"order": 23,
+			"points": 0,
+			"title": "Kruna",
+			"artist": "Nevena Božović"
+		},
+		{
+			"country": "SUI",
+			"order": 24,
+			"points": 0,
+			"title": "She Got Me",
+			"artist": "Luca Hänni"
+		},
+		{
+			"country": "AUS",
+			"order": 25,
+			"points": 0,
+			"title": "Zero Gravity",
+			"artist": "Kate Miller-Heidke"
+		},
+		{
+			"country": "ESP",
+			"order": 26,
+			"points": 0,
+			"title": "La Venda",
+			"artist": "Miki"
 		}
-
-
-
 	]
 }
